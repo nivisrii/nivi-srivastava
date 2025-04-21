@@ -29,8 +29,8 @@ I am a final-year Computer Science (AIML) student at PSIT, Kanpur. Passionate ab
 - 🆔 **[Smart Student ID Generator](https://github.com/nivi-srivastava/student-id-generator)**  
   ReactJS app to generate student ID cards with live preview, QR codes, and template customization.
 
-- 🍴 **[Brew & Bites](https://github.com/nivi-srivastava/brew-and-bites)**  
-  A responsive and dynamic online food ordering website using HTML, CSS, and JavaScript.
+- 🌐 **[Personal Portfolio](https://github.com/nivi-srivastava/portfolio)**  
+  A professional and animated portfolio website inspired by [abusaid.netlify.app](https://abusaid.netlify.app), built with ReactJS and plain CSS to showcase my skills, projects, and resume.
 
 - 🔒 **Blockchain-Based Land Registry (Ongoing)**  
   A research-oriented project to enhance transparency in land registration using blockchain technology.
@@ -40,6 +40,8 @@ I am a final-year Computer Science (AIML) student at PSIT, Kanpur. Passionate ab
 ### 📜 Certifications
 
 - ✅ AWS Cloud Practitioner Essentials – AWS
+- 🗃️ SQL and Relational Databases 101 – IBM  
+- 🧩 JsonPowerDB Certified Beginner – Learn2Explore
 - ⭐ 5-Star Problem Solving – HackerRank
 - 🌐 Web Development – freeCodeCamp
 - 🤖 Generative AI – Great Learning
