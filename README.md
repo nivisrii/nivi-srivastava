@@ -7,13 +7,13 @@
 
 ### 👩‍💻 About Me
 
-I am a final-year Computer Science (AIML) student at PSIT, Lucknow. Passionate about software engineering and web development, I enjoy building full-stack applications that are both functional and visually appealing. My work blends backend logic with intuitive frontend interfaces.
+I am a final-year Computer Science (AIML) student at PSIT, Kanpur. Passionate about software engineering and web development, I enjoy building full-stack applications that are both functional and visually appealing. My work blends backend logic with intuitive frontend interfaces.
 
 ---
 
 ### 💼 Skills & Technologies
 
-- **Languages:** Java, Python, JavaScript  
+- **Languages:** Java, Python, HTML, CSS, JavaScript  
 - **Frameworks/Libraries:** Spring Boot, ReactJS, Bootstrap, Thymeleaf  
 - **Databases:** MySQL, SQLite  
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Replit  
