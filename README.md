@@ -56,14 +56,6 @@ I am a final-year Computer Science (AIML) student at PSIT, Kanpur. Passionate ab
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivi-srivastava&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivi-srivastava&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 
