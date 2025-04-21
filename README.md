@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Nivi Srivastava</h1>
 <p align="center">
-  Final-year B.Tech (CS - AIML) | Software Developer | Web Enthusiast
+  Final-year B.Tech (CS - AIML) | Software Developer | Web Developer
 </p>
 
 ---
